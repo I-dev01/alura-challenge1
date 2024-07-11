@@ -1,6 +1,6 @@
 <h1 align="center">Encriptador de texto</h1>
 
-![Encriptador](https://user-images.githubusercontent.com/110305288/218240088-72f41ae2-6e88-47fb-af0a-959421702660.PNG)
+<img id="image-1" src="./images/main.png" alt="image-1">
 
 
 <p align="center">
